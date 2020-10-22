@@ -1,3 +1,5 @@
 /app
 /api
-pack.bat
+pack_all.bat
+pack_api.bat
+pack_app.bat
